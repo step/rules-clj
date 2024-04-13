@@ -1,0 +1,2 @@
+{:paths ["src" "test"]
+ :deps {lambdaisland/kaocha {:mvn/version "1.88.1376"}}}
